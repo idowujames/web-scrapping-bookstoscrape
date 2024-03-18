@@ -1,10 +1,10 @@
-# Web Scraper for Books
+# Web Scraper and data cleaning for Books
 
-This Python script demonstrates a basic web scraper for the Books To Scrape: https://books.toscrape.com website. It was created to test my understanding of web scraping techniques and explore my current knowledge in this area.
+This Python script demonstrates a web scraper and data cleaning for the Books To Scrape: https://books.toscrape.com website. It was created to test my understanding of web scraping techniques and explore my current knowledge in this area.
 
 Overview
 
-The web scraper is designed to extract the following information from the book pages:
+The web scraper is designed to extract the following information from the book pages and also clean the clean the scrapped data for further analysis:
 
 - Book Name
 - Book Details (e.g., Product Type, Price, Tax, etc.)
